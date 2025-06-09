@@ -1,2 +1,3 @@
-# first-project
-first time code
+this is my first project 
+<br>
+so help and support
